@@ -1,0 +1,65 @@
+
+.navbar, .dropdown-menu{
+background:#09ba32;
+border: none;
+
+}
+
+
+
+.nav>li>a:focus, .nav>li>a:hover,.nav .open>a, .nav .open>a:focus, .nav .open>a:hover, .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+  border-bottom: 3px solid transparent;
+  background: rgba(154, 154, 154, 0.27);
+}/*fin tancliciw 3la menu kidzad wa7ad khate lta7t*/
+.navbar a, .dropdown-menu>li>a, .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .navbar-toggle{
+ color: #fff;
+}/*katba bi white*/
+.dropdown-menu{
+      -webkit-box-shadow: none;
+    box-shadow:none;
+}
+
+
+
+.navbar-toggle .icon-bar{
+    color: #fff;
+    background: #000000;
+}
+.nav li.active:hover{
+  background-color:#f8ea18;
+
+}
+
+.nav a#i2:hover{
+  background-color:#f8ea18;
+
+}
+.nav a.i1:hover{
+  background-color:#f8ea18;
+
+}
+.nav a#active:hover{
+  background-color:#f8ea18;
+
+}
+.nav a#i4:hover{
+  background-color:#f8ea18;
+
+}
+.nav a#i5:hover{
+  background-color:#f8ea18;
+
+}
+.nav a#i6:hover{
+  background-color:#f8ea18;
+
+}
+.nav a#i7:hover{
+  background-color:#f8ea18;
+
+}
+.nav a#i8:hover{
+  background-color:#f8ea18;
+
+}
+
